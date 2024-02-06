@@ -43,7 +43,9 @@ export default function Home() {
             /> */}
             <img src={mochaGif} />
           </div>
-          <h1 className="text-3xl font-semibold">Will you be my Valentine?</h1>
+          <h1 className="text-3xl font-semibold">
+            Will you be my Valentine Ava?
+          </h1>
           <div className="flex space-x-8 mt-6">
             <div>
               <button
